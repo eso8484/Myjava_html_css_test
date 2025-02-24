@@ -37,7 +37,11 @@ This is a personal learning project, but feel free to suggest improvements!
 📧 Email: enejosundayoche@gmail.com
 <div align = "center">
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
-
 </div>
+# 🌐 Connect With Me
+
+[![Twitter](https://https://simpleicons.org/icons/x.svg/twitter-logo.png)](https://twitter.com/oche_21)
+
+[![Telegram](https://https://simpleicons.org/icons/telegram.svg/telegram-logo.png)](https://t.me/eso8484)
 
 
