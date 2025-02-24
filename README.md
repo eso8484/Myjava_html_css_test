@@ -35,14 +35,9 @@ This is a personal learning project, but feel free to suggest improvements!
 
 ## Contact
 📧 Email: enejosundayoche@gmail.com
-<html>
-<body align = "center>
+<div align = "center">
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "300">
 
-</body>
-
-
-
-</html>
+</div>
 
 
