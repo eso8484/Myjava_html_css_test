@@ -40,6 +40,6 @@ This is a personal learning project, but feel free to suggest improvements!
 </div>
 # 🌐 Connect With Me
 
-[![Twitter](https://simpleicons.org/icons/x.svg)](https://twitter.com/oche_21)
 
-[![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/eso8484)
+[![Twitter](https://img.shields.io/badge/simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eso8484)
+
