@@ -21,7 +21,7 @@ Welcome to my Web Development Learning Repository! This project contains my prac
 ## How to View the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/eso8484/Myjava_html_css_test.git
    ```
 2. Open `index.html` in your browser.
 
@@ -35,5 +35,14 @@ This is a personal learning project, but feel free to suggest improvements!
 
 ## Contact
 📧 Email: enejosundayoche@gmail.com
+<html>
+<body align = "center>
+<img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "300">
+
+</body>
+
+
+
+</html>
 
 
