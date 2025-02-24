@@ -42,4 +42,4 @@ This is a personal learning project, but feel free to suggest improvements!
 
 [![Twitter](https://simpleicons.org/icons/x.svg)](https://twitter.com/oche_21)
 
-[![Telegram](https://simpleicons.org/icons/telegram.svg/telegram-logo.png)](https://t.me/eso8484)
+[![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/eso8484)
