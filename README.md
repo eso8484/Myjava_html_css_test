@@ -41,5 +41,5 @@ This is a personal learning project, but feel free to suggest improvements!
 # 🌐 Connect With Me
 
 
-[![Twitter](https://img.shields.io/badge/simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eso8484)
+[![Twitter](https://img.shields.io/badge/x.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eso8484)
 
