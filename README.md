@@ -39,7 +39,14 @@ This is a personal learning project, but feel free to suggest improvements!
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
 </div>
 # 🌐 Connect With Me
+# 🌐 Connect With Me  
 
-[![Twitter](https://img.shields.io/badge/simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/oche_21)
+<a href="https://twitter.com/oche_21">
+    <img src="https://simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white" width="150">
+</a>
+
+<a href="https://t.me/eso8484">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150">
+</a>
 
 
