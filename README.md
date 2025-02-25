@@ -39,7 +39,6 @@ This is a personal learning project, but feel free to suggest improvements!
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
 </div>
 # 🌐 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://Eso8484)
 
-
-[![Twitter](https://img.shields.io/badge/x.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eso8484)
 
