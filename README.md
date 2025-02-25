@@ -38,8 +38,7 @@ This is a personal learning project, but feel free to suggest improvements!
 <div align = "center">
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
 </div>
-# 🌐 Connect With Me
-# 🌐 Connect With Me  
+# 🌐 Connect With Me 
 
 <a href="https://twitter.com/oche_21">
     <img src="https://simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white" width="150">
