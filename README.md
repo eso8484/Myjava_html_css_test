@@ -40,6 +40,5 @@ This is a personal learning project, but feel free to suggest improvements!
 </div>
 # 🌐 Connect With Me 
 
-[[!Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Foche_21
 
-)](twitter.com/oche_21)
+[[!Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Foche_21)](twitter.com/oche_21)
