@@ -40,12 +40,6 @@ This is a personal learning project, but feel free to suggest improvements!
 </div>
 # 🌐 Connect With Me 
 
-<a href="https://twitter.com/oche_21">
-    <img src="https://simpleicons.org/icons/x.svg?style=flat&logo=twitter&logoColor=white" width="150">
-</a>
+[[!Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Foche_21
 
-<a href="https://t.me/eso8484">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150">
-</a>
-
-
+)](twitter.com/oche_21)
