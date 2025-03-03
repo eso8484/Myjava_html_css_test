@@ -38,6 +38,7 @@ This is a personal learning project, but feel free to suggest improvements!
 <div align = "center">
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
 </div>
+
 ## 🌐 Connect With Me 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oche_21)
