@@ -38,5 +38,9 @@ This is a personal learning project, but feel free to suggest improvements!
 <div align = "center">
 <img src = "Image/Screenshot 2025-02-24 192253.png" width = "150" height = "150">
 </div>
-# 🌐 Connect With Me 
+## 🌐 Connect With Me 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oche_21)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eso8484)
+[![Direct Contact](https://img.shields.io/badge/Direct_Contact-%23009688.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eso8484)
 
